@@ -9,3 +9,4 @@
 ✓ Starting...
 ✓ Ready in 1170ms
  POST /api/generate 200 in 3.1s (compile: 1107ms, render: 2.0s)
+ POST /api/generate 200 in 3.9s (compile: 1882ms, render: 2.0s)
